@@ -1,6 +1,6 @@
 {
   "name": "full-cycle-app",
-  "version": "8.4.0",
+  "version": "8.4.1",
   "scripts": {
     "ng": "node --preserve-symlinks ./node_modules/@angular/cli/bin/ng",
     "start": "yarn ng serve",
