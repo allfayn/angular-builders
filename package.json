@@ -1,5 +1,6 @@
 {
   "name": "angular-builders",
+  "version": "9.0.0-alpha.1",
   "description": "A consolidation of community builders for Angular build facade",
   "repository": {
     "type": "git",
